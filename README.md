@@ -1,2 +1,3 @@
 # sugarlabs
-Google code-in 
+Hello Sugar Labs
+Hi, my name is Jonas 
